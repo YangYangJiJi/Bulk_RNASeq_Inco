@@ -4,15 +4,20 @@
 
 ## 📂 폴더 구조
 - `1_Preprocessing_Norm_TCC.R` : 데이터 전처리 및 정규화
+    - data input, 발현된 마우스 유전자 필터링, 정규화(TCC), data melting, box plot
 - `2_PCA_Dendrogram_Correlation.R` : PCA 및 덴드로그램 분석
+    - PCA plot, dendrogram, expression correlation
 - `3_DEG_Analysis_Heatmap.R` : 차등 발현 유전자(DEG) 분석
+    - DEG by cell type / mutation 
 - `4_Functional_analysis_EnrichGO.R` : 기능적 분석 (GO)
+    - CD4 up/down, DKO up/down regulate 
 - `EGR_Knockin_Knockout_RNAseq_full.R` : 위의 4개의 파일을 합한 full 파일
 - `result_meaning.md` : 결과 해석
 - `data/` : 원본 및 전처리된 데이터 저장
 - `results/` : 분석 결과 저장
 - `figures/` : 생성된 플롯 저장
 - `more_study/` : 궁금한 내용 추가 공부
+ 
 
 ## 결과 미리보기
 ![alt text](./figures/readme1.png)
