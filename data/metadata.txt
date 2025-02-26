@@ -1,0 +1,13 @@
+Sample Name	Mutation	Cell Type	Group
+Egr2/3_DKO_CD4_1	Egr2/3_DKO	CD4	Egr2/3_DKO_CD4
+Egr2/3_DKO_CD4_2	Egr2/3_DKO	CD4	Egr2/3_DKO_CD4
+Egr2/3_DKO_CD4_3	Egr2/3_DKO	CD4	Egr2/3_DKO_CD4
+Egr2/3_DKO_CD8_1	Egr2/3_DKO	CD8	Egr2/3_DKO_CD8
+Egr2/3_DKO_CD8_2	Egr2/3_DKO	CD8	Egr2/3_DKO_CD8
+Egr2/3_DKO_CD8_3	Egr2/3_DKO	CD8	Egr2/3_DKO_CD8
+Egr2_Kin_CD4_1	Egr2_Kin	CD4	Egr2_Kin_CD4
+Egr2_Kin_CD4_2	Egr2_Kin	CD4	Egr2_Kin_CD4
+Egr2_Kin_CD4_3	Egr2_Kin	CD4	Egr2_Kin_CD4
+Egr2_Kin_CD8_1	Egr2_Kin	CD8	Egr2_Kin_CD8
+Egr2_Kin_CD8_2	Egr2_Kin	CD8	Egr2_Kin_CD8
+Egr2_Kin_CD8_3	Egr2_Kin	CD8	Egr2_Kin_CD8
